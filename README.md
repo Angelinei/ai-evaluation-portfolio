@@ -187,4 +187,26 @@ My approach is to make AI evaluation **structured, explainable and useful for re
 
 **Evidence** — Can each evaluation judgment be supported by something observable in the model output?
 
+# Background
+
+### Learning & EdTech
+
+**Freelance Learning Consultant / Instructional Designer**  
+2021 — present
+
+Learning design, instructional design, training, curriculum development, assessment and EdTech consulting.
+
+### AI Product Development
+
+**Founder & AI Product Builder — Skillxtube**  
+2026 — present
+
+Building AI-powered learning products for the international EdTech market.
+
+### Digital Product & Project Management
+
+Previous experience across startups, education organizations, institutions and digital projects.
+
+My background includes digital project management, content strategy, communication, webmarketing and educational program development.
+
 
