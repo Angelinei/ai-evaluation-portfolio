@@ -147,8 +147,6 @@ Document extraction
 Content analysis
        ↓
 LLM evaluation
-
-View case study →
        ↓
 Issue detection
        ↓
@@ -156,7 +154,9 @@ Structured report
        ↓
 Human review
 
-# Technical Stack
+View case study →
+
+### Technical Stack
 
 ### AI
 
