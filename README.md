@@ -147,6 +147,8 @@ Document extraction
 Content analysis
        ↓
 LLM evaluation
+
+View case study →
        ↓
 Issue detection
        ↓
