@@ -37,4 +37,30 @@ My experience spans instructional design, learning engineering, training, digita
 - Learning Content Evaluation
 - AI-generated educational content
 - AI Agents
+
+## Product Experience
+
+### Skillxtube
+
+**AI-powered learning ecosystem · Founder & AI Product Builder · 2026–present**
+
+Building an AI-powered learning ecosystem that transforms online content into structured learning paths.
+
+### What I work on
+
+- AI-powered learning experiences
+- LLM integration
+- AI agents
+- Learning path generation
+- Content transformation
+- Adaptive learning concepts
+- AI × EdTech product design
+
+### Stack
+
+`Next.js` · `React` · `TypeScript` · `Supabase` · `Stripe` · `YouTube API` · `LLMs` · `AI Agents`
+
+This product provides a practical environment for experimenting with AI systems from both a **product** and **learning** perspective.
+
+[Explore Skillxtube](https://skillxtube.vercel.app/linkedin)
 - AI-powered learning products
