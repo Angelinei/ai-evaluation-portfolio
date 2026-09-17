@@ -137,6 +137,22 @@ This project explores how document processing and LLM analysis can identify qual
 - Structural issues
 - Pedagogical gaps
 
+# Technical Stack
 
+### AI
+
+`LLMs` · `AI Agents` · `Prompt Engineering` · `Model Evaluation` · `AI APIs`
+
+### Development
+
+`Python` · `JavaScript` · `TypeScript` · `React` · `Next.js` · `FastAPI`
+
+### Data & Infrastructure
+
+`Supabase` · `APIs` · `Automation` · `Document Processing`
+
+### Learning & Evaluation
+
+`Instructional Design` · `Learning Design` · `Curriculum Design` · `Assessment Design` · `Evaluation Rubrics`
 
 
