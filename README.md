@@ -155,4 +155,36 @@ This project explores how document processing and LLM analysis can identify qual
 
 `Instructional Design` · `Learning Design` · `Curriculum Design` · `Assessment Design` · `Evaluation Rubrics`
 
+# Evaluation Philosophy
+
+Good AI evaluation is not only about asking whether an answer is "good" or "bad".
+
+It requires:
+
+1. A clearly defined task
+2. Explicit evaluation criteria
+3. Observable evidence
+4. A consistent evaluation methodology
+5. Context-aware analysis
+6. Human review when necessary
+7. Clear separation between observation and interpretation
+
+My approach is to make AI evaluation **structured, explainable and useful for real-world systems**.
+
+### What I look for
+
+**Quality** — Is the output accurate, relevant and useful?
+
+**Instruction following** — Did the model actually do what was requested?
+
+**Reasoning & explanation** — Is the response logically structured and understandable?
+
+**Consistency** — Does the model behave coherently across different prompts and conversations?
+
+**Learning impact** — Does the output genuinely support the learner's objective?
+
+**Behavior** — What observable patterns emerge from the interaction?
+
+**Evidence** — Can each evaluation judgment be supported by something observable in the model output?
+
 
