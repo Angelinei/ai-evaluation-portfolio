@@ -209,4 +209,14 @@ Previous experience across startups, education organizations, institutions and d
 
 My background includes digital project management, content strategy, communication, webmarketing and educational program development.
 
+# Selected Achievement
+
+### DigiEduHack 2024
+
+**1st position in team**
+
+Challenge: *Building Open Source Data-Driven Content for Tomorrow's Educators*
+
+A project focused on open and data-driven approaches to educational content and the future of learning.
+
 
